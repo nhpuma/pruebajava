@@ -46,7 +46,7 @@ public class Prestamo extends JFrame implements ActionListener{
 	
 	//Crea la GUI
 	public Prestamo(){
-		setTitle("Préstamo");
+		setTitle("Préstamo de dinero by nhpuma");
 		setBounds(100, 100, 450, 214);
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		getContentPane().setLayout(null);
